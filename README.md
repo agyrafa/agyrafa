@@ -9,7 +9,9 @@ I work with development and maintence of wbservices, websites and webapps in gen
 ### Find me 
 
 🚀 &nbsp;[Site](https://agyrafa.com)<br />
+💻 &nbsp;[Linkedin](https://www.linkedin.com/in/agyrafa/)<br />
 🐦 &nbsp;[Twitter](https://twitter.com/agyrafa)<br />
+
 
 ### Companies I've worked for
 
