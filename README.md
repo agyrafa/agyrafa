@@ -3,7 +3,7 @@
 But you can call me Mari. 
 I live in [Liverpool](https://goo.gl/maps/UgTvmy69xTvxgZ2Y6?coh=178571&entry=tt]), UK. 🇬🇧
 
-I work with development and maintence of wbservices, websites and webapps in general, focused on the best experience for the user. I had the opportunity to work with some big brands, such as McDonalds, Samsung, NHS and more.
+I've successfully collaborated with multidisciplinary teams to deliver projects on time and within scope, while ensuring the final product aligns with the highest standards of functionality and performance.
 &nbsp;
 
 ### Find me 
