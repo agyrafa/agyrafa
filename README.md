@@ -1,4 +1,4 @@
-### Hey, I'm Marianna! 👋
+## Hey, I'm Marianna! 👋
 
 But you can call me Mari. 
 I live in [Liverpool](https://goo.gl/maps/UgTvmy69xTvxgZ2Y6?coh=178571&entry=tt]), UK. 🇬🇧
@@ -6,13 +6,13 @@ I live in [Liverpool](https://goo.gl/maps/UgTvmy69xTvxgZ2Y6?coh=178571&entry=tt]
 I've successfully collaborated with multidisciplinary teams to deliver projects on time and within scope, while ensuring the final product aligns with the highest standards of functionality and performance.
 &nbsp;
 
-### Find me 
+## Find me 
 
 🚀 &nbsp;[Site](https://agyrafa.com)<br />
 💻 &nbsp;[Linkedin](https://www.linkedin.com/in/agyrafa/)<br />
 
 
-### Companies I've worked for
+## Companies I've worked for
 
 |                                                                                           | Company                     | Start date     | End date      |
 |:-----------------------------------------------------------------------------------------:|-----------------------------|----------------|---------------|
