@@ -8,7 +8,6 @@ I've successfully collaborated with multidisciplinary teams to deliver projects 
 
 ## Find me 
 
-🚀 &nbsp;[Site](https://agyrafa.com)<br />
 💻 &nbsp;[Linkedin](https://www.linkedin.com/in/agyrafa/)<br />
 
 
